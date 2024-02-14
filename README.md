@@ -1,6 +1,6 @@
 ## Social-Network-API
 
-In this challenge, we are tasked to build an API for a social network web application where users can share their thoughts. So basically Twitter for beginners!
+I created an API for a social network web application where users can share their thoughts. So basically Twitter for beginners!
 
 ## USER STORY
 
